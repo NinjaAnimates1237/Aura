@@ -1,0 +1,9 @@
+{
+  "name": "aura",
+  "version": "1.0.0",
+  "description": "Aura realtime blocks collaboration",
+  "files": [
+    "main.ts"
+  ],
+  "public": false
+}
